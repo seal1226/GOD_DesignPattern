@@ -14,7 +14,7 @@
         /// 複数表示
         /// </summary>
         /// <param name="count">表示回数</param>
-        public void MultiDisplay(int count)
+        public void MultiDisp(int count)
         {
             Open();
             for (int i=0; i<count; i++)

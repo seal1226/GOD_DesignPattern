@@ -11,3 +11,4 @@ S:\development\workspace\C#\GOF_DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bri
 S:\development\workspace\C#\GOF_DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
 S:\development\workspace\C#\GOF_DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
 S:\development\workspace\C#\GOF_DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\bin\Debug\netcoreapp3.1\README.md

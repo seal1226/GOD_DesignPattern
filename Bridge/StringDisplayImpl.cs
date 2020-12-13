@@ -7,7 +7,7 @@ namespace Bridge
     /// <summary>
     /// 文字列を表示
     /// </summary>
-    public class StringDisplay : IDisplay
+    public class StringDisplayImpl : IDisplay
     {
         /// <summary>
         /// メッセージ
@@ -19,7 +19,7 @@ namespace Bridge
         /// </summary>
         private readonly int _width;
 
-        public StringDisplay(String message)
+        public StringDisplayImpl(String message)
         {
             var utf8 = Encoding.UTF8;
 
