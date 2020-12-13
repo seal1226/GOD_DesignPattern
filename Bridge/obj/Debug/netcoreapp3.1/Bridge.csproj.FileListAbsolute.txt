@@ -1,0 +1,13 @@
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+S:\development\workspace\C#\GOF_DesignPattern\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache
