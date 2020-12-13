@@ -1,8 +1,4 @@
-﻿ using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Bridge
+﻿namespace Bridge
 {
     /// <summary>
     /// Displayクラスに複数回表示する機能を追加

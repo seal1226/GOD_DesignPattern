@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Bridge
+﻿namespace Bridge
 {
     /// <summary>
     /// 表示するという機能の最上位クラス
